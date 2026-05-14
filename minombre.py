@@ -1,1 +1,1 @@
-print("Mi nombre es karla y vanessa")
+print("Mi nombre es vanessa")
